@@ -15,6 +15,7 @@ class Codewars() {
         for (i in 1..ls.size) {
             if(sumPartArray[i - 1] + ls[i - 1]>Int.MAX_VALUE)
             {
+
                 return throw Exception ("Слишком большое число")
 
             }else {
