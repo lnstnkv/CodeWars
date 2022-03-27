@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSumParts" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-03-27T12:04:41" hostname="ZVERZVE-NOOR0T6" time="0.031">
+  <properties/>
+  <testcase name="checkAnswer_WithSmallNumber_ReturnExpected()" classname="TestSumParts" time="0.028"/>
+  <testcase name="checkAnswer_SimpleTest_ReturnExpected()" classname="TestSumParts" time="0.0"/>
+  <testcase name="checkAnswer_WithNegativeNumber_ReturnExpected()" classname="TestSumParts" time="0.001"/>
+  <testcase name="checkAnswer_NullArray_ReturnExpected()" classname="TestSumParts" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
